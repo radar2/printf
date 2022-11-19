@@ -1,10 +1,4 @@
-/*
- * print_x
- * print_p
- * print_X
- */
-
-#include "holberton.h"
+#include "main.h"
 
 /**
 * print_p - print pointer address
