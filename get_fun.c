@@ -34,4 +34,3 @@ int (*get_print(char tipo))(va_list)
 	}
 	return (NULL);
 }
-
