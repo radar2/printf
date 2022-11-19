@@ -1,5 +1,5 @@
-#ifndef _MAIN_H_
-#define _MAIN_H_
+#ifndef MAIN_H
+#define MAIN_H
 
 #include <stdarg.h>
 #include <stdio.h>
@@ -35,4 +35,4 @@ int print_p(va_list x);
 int print_x(unsigned long int x);
 int print_X(unsigned long int x);
 int (*get_print(char type))(va_list);
-#endif /* _MAIN_H_ */
+#endif /* MAIN_H */
